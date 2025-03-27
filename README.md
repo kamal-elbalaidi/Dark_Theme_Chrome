@@ -18,14 +18,14 @@ The theme customizes the following UI elements:
 - **Popups**: Background and border colors, including text highlights.
 
 ### Example of Custom Colors
-- **Button Background Active**: `#333333`
-- **Button Background Hover**: `#282828`
-- **Bookmark Text**: `#ffffff`
-- **Frame**: `#0c0c0c`
-- **Icons**: `#ffffff`
-- **NTP Background**: `#0c0c0c`
-- **Popup Background**: `#101010`
-- **Sidebar Background**: `#101010`
+- **Button Background Active**: `[51, 51, 51]`
+- **Button Background Hover**: `[40, 40, 40]`
+- **Bookmark Text**: `[255, 255, 255]`
+- **Frame**: `[12, 12, 12]`
+- **Icons**: `[255, 255, 255]`
+- **NTP Background**: `[12, 12, 12]`
+- **Popup Background**: `[16, 16, 16]`
+- **Sidebar Background**: `[16, 16, 16]`
 
 ## Author
 - **Author**: Kamal El Balaidi
